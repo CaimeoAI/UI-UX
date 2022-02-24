@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+
+
+#linkedfont {
+    font-size: 20px;
+    font-family: 'Shizuru', cursive;
+}
+
+#importedfont {
+    font-size: 20px;
+    font-family: 'Staatliches', cursive;
+}
