@@ -11,3 +11,14 @@
     font-size: 20px;
     font-family: 'Staatliches', cursive;
 }
+
+h3:before {
+    content: "[]";
+    color: red;
+}
+
+h2:after {
+    content: "()";
+    color: red;
+    background-color: green;
+}
