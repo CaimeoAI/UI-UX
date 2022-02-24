@@ -22,3 +22,12 @@ h2:after {
     color: red;
     background-color: green;
 }
+
+li {
+    list-style-type: none;
+}
+
+li:before {
+    content: "♥";
+    color: red;
+}
